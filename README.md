@@ -1,3 +1,4 @@
+![](Images/swingtrading.png)
 # SwingTradingBot
 SwingTradingBot
 
