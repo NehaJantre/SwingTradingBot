@@ -2,7 +2,7 @@
 # SwingTradingBot
 SwingTradingBot
 
-This project was created using machine learning to develop a swing trading bot. The purpose of our bot is to identify oversold RSI parameters and to initiate buy signals using EMA crossovers.
+This project was created using machine learning to develop a swing trading bot. The purpose of our bot is to identify oversold RSI parameters and to initiate buy signals using EMA crossovers. This IS NOT FINANCIAL ADVICE.
 
 ## The following steps will be performed in this project
 1. Import closing stock data with the ALPACA API Key
@@ -14,6 +14,22 @@ This project was created using machine learning to develop a swing trading bot. 
 7. Add and train the Logistic Regression machine learning model
 8. Backtest the Logistic Regression model using the testing data to evaluate its performance
 9. Compare the performance of the logistic regression and SVM models using the classification reports generated with the testing data
+
+
+
+![SPY](SPY2021.png)
+
+![Strategy Returns vs SPY Actual Returns](SPY.png)
+
+![Backtesting Plot](spybacktest.png)
+
+
+![QQQ](QQQ_2021.png)
+
+![Cumulative strategy returns vs Actual returns QQQ](qqq_strat_returns.png)
+
+![Backtest Plot](qqqbacktest.png)
+
 
 
 ## Technology Required
@@ -77,6 +93,9 @@ Neha Jantre, Martique Henton, Cole Ferral, Zach Zwiener
 
 ### Contact
 Email - zachzwiener3@gmail.com
+Email - martique.henton@gmail.com
+Email - nehaj910@gmail.com
+Email - coleferrell123@yahoo.com
 
 ### License
 MIT
